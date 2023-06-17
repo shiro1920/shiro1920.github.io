@@ -1,14 +1,12 @@
-- title: About
-  url: /about/
-- title: Years
-  url: /years/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
-- title: More
-  sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Docs
-      url: /docs/
+- title: Welcome!
+  url: /welcome/
+- title: CV
+  url: /CV/
+- title: Research
+  url: /Research/
+- title: Presentations
+  url: /Presentations/
+- title: Resources
+  url: /Resources/
+- title: Contact
+  url: /Contact/

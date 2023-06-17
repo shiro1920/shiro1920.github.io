@@ -1,8 +1,13 @@
-title: Hamilton
-description: No man ever steps in the same river twice。
+title: Albireo
+description: No man ever steps in the same river twice.
 author: Zhiyuan Zheng
-avatar: /logo.png
+avatar: /weblogo.png
 email: zyzhengnju@gmail.com
+skin: daylight
+location: Nanjing, CN
+subscribe: False
+lang: en
+introduction: PhD student in astrophysics at School of Astronomy & Space Science | Nanjing University.
 
 plugins:
   - jekyll-seo-tag
@@ -26,16 +31,14 @@ exclude:
   - scripts/
   - README.md
   - jekyll-theme-hamilton.gemspec
+  - vendor
 
 # Jekyll SEO Tag (Optional)
 # =========================
-# twitter:
-#   username: ngzhio
-#   card: summary
-# logo: logo.png
+# logo: weblogo.png
 social:
-  name: Shangzhi Huang
+  name: Zhiyuan Zheng
   links:
     - https://github.com/shiro1920
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: en
+
